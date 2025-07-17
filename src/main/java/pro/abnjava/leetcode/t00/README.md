@@ -1,0 +1,1 @@
+is polindrom number?
